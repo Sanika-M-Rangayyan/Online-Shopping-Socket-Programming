@@ -12,5 +12,5 @@ is out of stock and so on.
 ->CSV Database : Storing the user information in a CSV database.
 
 Scope:
--Graphical user interface.
--Prevent database redundancy.
+->Graphical user interface.
+->Prevent database redundancy.
